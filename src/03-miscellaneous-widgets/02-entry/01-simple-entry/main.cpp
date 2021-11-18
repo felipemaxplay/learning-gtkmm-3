@@ -1,5 +1,5 @@
 #include "entryExample.h"
-#include <gtkmm.h>
+#include <gtkmm/application.h>
 
 int main(int argc, char * argv[] )
 {
