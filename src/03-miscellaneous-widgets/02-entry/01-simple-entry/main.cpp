@@ -7,5 +7,5 @@ int main(int argc, char * argv[] )
 
     EntryExample entryExample;
 
-    app -> run(entryExample);
+    return app -> run(entryExample);
 }
