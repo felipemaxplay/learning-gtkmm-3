@@ -7,5 +7,5 @@ int main(int argc, char * argv[] )
 
     HelloWorld helloWorld;
 
-    app -> run(helloWorld);
+    return app -> run(helloWorld);
 }
