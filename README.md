@@ -14,5 +14,5 @@ Para conseguir compilar você precisara entrar em uma das pastas na qual você d
 
 Exemplo de compilação feito com o g++:
 ```bash
-g++ ./src/02-range-widgets/*.cpp -o main `pkg-config gtkmm-3.0 --cflags --libs`
+g++ ./src/02-range-widgets/*.cpp -o ./src/02-range-widgets/main `pkg-config gtkmm-3.0 --cflags --libs`
 ```
