@@ -15,9 +15,3 @@ Exemplo de compilação feito com o g++:
 ```bash
 g++ ./src/02-range-widgets/*.cpp -o main `pkg-config gtkmm-3.0 --cflags --libs`
 ```
-
-# Contribuidores
-- [@Felipe Gomes](https://github.com/felipemaxplay).
-
-# Licença
-Este projeto usa a seguinte licença: [MIT](./LICENSE.md).
